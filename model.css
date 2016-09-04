@@ -1,0 +1,12 @@
+.box{
+    border:1px solid green;
+    height:80px;
+    width:80px;
+    background:green;
+    color:white;
+    margin:0 auto;
+    }
+.box:hover {
+  background-color: orange;
+  border-radius: 50%;
+}
